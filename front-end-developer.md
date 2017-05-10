@@ -1,6 +1,6 @@
 ---
 title: Front-end Developer
-status: open
+status: not open at the moment
 position: full-time
 location: Berlin, Germany
 ---
