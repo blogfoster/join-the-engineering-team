@@ -1,17 +1,17 @@
 ---
-title: Front-end Developer
-status: not open at the moment
+title: Front-end Engineer
+status: open
 position: full-time
 location: Berlin, Germany
 ---
 
-# Front-end Developer (m/f)
+# Front-end Engineer (m/f)
 
 Build the platform that empowers thousands of bloggers.
 
 ## The position
 
-We are looking for a smart, self-motivated front-end developer to strengthen our team. You’ll be working on the heart of our platform, the user application, creating a great user experience.
+We are looking for a smart, self-motivated front-end engineer to strengthen our team. You’ll be working on the heart of our platform, the user application, creating a great user experience.
 
 Combining design and implementation is your mindset; only together you can build the best solutions for our users. Your focus lies on the front-end development, but you are curious about all developments in the team. Furthermore, you’ll make technical decisions and enable the further growth of the company with your expertise and solutions.
 

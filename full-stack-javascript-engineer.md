@@ -1,11 +1,11 @@
 ---
-title: Full-Stack JavaScript Developer
+title: Full-Stack JavaScript Engineer
 status: open
 position: full-time
 location: Berlin, Germany
 ---
 
-# Full-Stack JavaScript Developer (m/f)
+# Full-Stack JavaScript Engineer (m/f)
 
 Build the platform that empowers thousands of bloggers.
 
@@ -39,7 +39,7 @@ Furthermore, you enjoy working in a small team that tries to operate agile and w
 
 ## What technology do we use?
 
-We are strong believers that JavaScript is the ideal language to build the optimal solutions for the web. We use it for our web apps and backend components. Therefore we generate big synergy effects, which means that all developers can work on all critical components. This fact is really important, especially if the team is still relatively small.
+We are strong believers that JavaScript is the ideal language to build the optimal solutions for the web. We use it for our web apps and backend components. Therefore we generate big synergy effects, which means that all engineers can work on all critical components. This fact is really important, especially if the team is still relatively small.
 
 We develop in ES6 and ES7 and use it natively wherever we can. If not we use Babel. For frameworks and tools, we rely heavily on React, Hapi, Webpack, Redux and others.
 
