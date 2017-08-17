@@ -1,6 +1,6 @@
 ---
 title: Product Manager
-status: open
+status: not open at the moment
 position: full-time
 location: Berlin, Germany
 ---
