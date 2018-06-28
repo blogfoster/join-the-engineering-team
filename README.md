@@ -7,8 +7,8 @@ In the meantime, you can check out our [engineering blog](http://engineering.blo
 
 ## Positions:
 
-- [DevOps Engineer (m/f)](devops-engineer.md)
 - [JavaScript Engineer (m/f)](javascript-engineer.md)
+- [DevOps Engineer (m/f)](devops-engineer.md)
 - [Product Manager (m/f)](product-manager.md)
 
 ## About blogfoster
