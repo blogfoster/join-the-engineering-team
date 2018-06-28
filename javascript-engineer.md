@@ -1,11 +1,11 @@
 ---
-title: Full-Stack JavaScript Engineer
+title: JavaScript Engineer
 status: open
 position: full-time
 location: Berlin, Germany
 ---
 
-# Full-Stack JavaScript Engineer (m/f)
+# JavaScript Engineer (m/f)
 
 Build the platform that empowers thousands of bloggers.
 
