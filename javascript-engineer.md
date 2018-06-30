@@ -1,29 +1,21 @@
 ---
-title: Full-Stack JavaScript Engineer
+title: JavaScript Engineer
 status: open
 position: full-time
 location: Berlin, Germany
 ---
 
-# Full-Stack JavaScript Engineer (m/f)
+# JavaScript Engineer (m/f)
 
 Build the platform that empowers thousands of bloggers.
 
-## The position
+## The Position
 
-We are looking for a smart, self-motivated software engineer to strengthen our development team. Your preferred programming language is JavaScript and you are excited about the latest developments in that area just as we are.
-
-You’re going to work on the whole platform from our single-page web apps to our Node.js backend service. You are always keen to challenge the existing and try to improve it by making technical decisions and introducing best practices.
-
-Furthermore, you enjoy working in a small team that tries to operate agile and without much overhead. Having result-oriented discussions with your peers to find the best solutions is your daily routine.
-
-## About You
-
-- You should have advanced JavaScript skills.
-- You have experience with Node.js. Interests in React, Hapi.js or Express.js would make the onboarding easier ;)
+- You should have JavaScript skills.
+- You have experience with Node.js. Interests in React, Hapi.js or Express.js would make the on-boarding easier ;)
 - You write well-tested and robust code.
 - You have a good understanding of modern JavaScript best practices.
-- You care about software: "How it is done is as important as having it done".
+- You care about software: “How it is done is as important as having it done”.
 - You leave no stone left unturned when you are on the hunt for solutions. New problems occur every day and sometimes we need to leave our comfort zone to solve them.
 - You are passionate about sharing your knowledge and experience among the team.
 - You don’t accept the given; you strive always for innovative solutions that pushes the company and your peers.
@@ -46,3 +38,7 @@ We develop in ES6 and ES7 and use it natively wherever we can. If not we use Bab
 From infrastructure side, we use AWS, MySQL, Redis, Docker, Chef, CloudWatch and other nice external SaaS solutions.
 
 We regularly reevaluate our decisions to make sure that we always enable the further growth and success of the company.
+
+Interested to learn more about the role and about how our engineering team works? [We've shared more details about our engineering culture and what we do in our every day](https://www.blogfoster.com/engineering/jobs/javascript-engineer/).
+
+Interested in joining our engineering team? [Apply here](https://blogfoster.workable.com/jobs/471948/candidates/new)!
