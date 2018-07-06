@@ -1,40 +1,46 @@
 ---
 title: Product Manager
-status: not open at the moment
+status: open
 position: full-time
 location: Berlin, Germany
 ---
 
 # Product Manager (m/f)
-Make the vision reality and create a technology that impacts influencers and brands.
+As a product manager at blogfoster, you would contribute to a product that enables creative content creators with relevant audiences to turn their passion into a business.
 
 ## The Mission &amp; Product
 
-blogfoster is the leading platform for blog & Influencer Marketing – Currently blogfoster is with over 9.500 Blogs as well as 22.000 Influencer channels (Instagram etc.) in both the DACH & United Kingdom. Our mission is that in 2020 everybody will be earning money with their social profiles and blogs. Join us on our mission!
+At blogfoster, we go beyond simply connecting brands with influential individuals. We provide an influencer marketing integration solution: from creating authentic campaign designs and effective audience matching, through to execution and analytical reporting. At blogfoster, we ensure that our advertising partners realise the full potential of influencer marketing. To guarantee sustainable collaborations between content creators and brands, we strive for authentic and high quality content.
 
-## The Position
+## What you can look forward to:
 
-We are looking for a smart, self-motivated product manager to strengthen the product & engineering team. You will work hand-in-hand with the executive team and identify market opportunities and define product vision and strategy. Therefore, you understand customer needs and collect product requirements, to develop new and enhance existing products.
+- You are part of a team that is building the foundation for a scalable product that is expanding into new markets, currently DACH and UK, soon France.
+- You are responsible for developing new products and features and/or improving existing ones. You will manage your products over the full product lifecycle: discovery, validation, implementation, rollout, evaluation and adjustment. This does not mean you are doing this alone, it means you take ownership for the process and enjoy autonomy.
+- In your daily routine you will work within a small, experienced team that includes engineering, UI design, business intelligence and product.
+- We like results-oriented discussions and fast iterations to find the best solutions for our users. We would rather implement a simple prototype and test it with real people than brood over a concept for weeks.
+- You will talk to our customers face-to-face or phone-to-phone at least monthly.
+- Personal development is important to us. That’s why, after a qualifying time period, you are free to spend 10% of your time on your passions. This could be open source, blog articles or other areas of interest that supports you in becoming the best version of yourself.
 
-Your primary goal is to launch products and features with high quality. Therefore, you will work in close collaboration with the engineering team by creating actionable working packages with all the necessary details. You must always have an eye on the roadmap and execution schedule.
 
-Furthermore, you enjoy working in a small team that tries to operate agile and without much overhead. Having result-oriented discussions with your peers to find the best solutions is your daily routine.
+## Requirements:
 
-It is the first full-time product management position at blogfoster which means that you have the freedom and power to set up ideal processes and environment.
+- You are fluent in German (minimum is C2 after CEFR) and English. You are passionate about blogging, social media and developments in the marketing and advertising landscape.
+- You know how to discover a product that is valuable (meets user needs, solving a problem), usable (joy of use, UX) and feasible (what is currently technically possible).
+- You know how to get user feedback (customers, internal stakeholders, analytics software) and how to analyse and prioritise it.
+- You can translate customer needs and feedback into actionable to-dos for development with written specs, wireframes, flowcharts. You know when a paper drawing will do the job and when a clickable prototype is necessary.
+- Being successful in a startup environment means you know when it is important to stick to methods, processes and numbers, and when to rely on your gut instincts. If necessary you can be pragmatic and simply get things done.
+- You know how to communicate the important things at the right time and always with a smile on your face: no matter if the medium is a wireframe, a release presentation, an email or a personal conversation.
+- You have at least 2 years’ experience in product management, user research or UX. You don’t have to be an expert in all of the tasks listed above already, but you need to know at least half of it and not just from reading about it. And you have to be able to convince us that you are eager the learn the rest fast.
 
-## About You
+## Process
 
-- **You are deeply technical.** You don't need to code, but you have a good understanding of common software stacks and the general structure of Internet applications. Furthermore, you are comfortable working side by side with software engineers.
-- **You have a strong product sensibility.** You know how to build compelling features and products for thousands of users. You can turn ideas into user-facing products.
-- **You can express your thoughts visually.** Visual and interactive mocks help everybody in the process to understand concepts and workflows. You utilize that approach regularly.
-- **Software delivery is your daily business.** You are confident managing a release roadmap, you can hold software engineers to account, and you understand the importance of small batches and minimizing work in progress.
-- **You communicate with clarity and enthusiasm.** Our users, customers, and colleagues want to be informed about decisions and progress. High-quality communication and collaboration are your daily business.
+- Please send us your CV and a written pitch in German language that describes why you fit the requirements and what you think is exciting about the position.
+- If you seem like a good fit, we’ll have a short phone or video chat to get a first impression of each other, ask a first round of questions and check our mutual requirements.
+- If we still want to get to know each other, we’ll meet for an interview and a case study. This is also the chance to meet other team members and have a chat with them over coffee.
+- If we are both impressed, we discuss the details of the PM role further.
 
-## Your benefits
+Want to join us?
+Then we'd be more than happy to receive your application!
 
-- Competitive salary
-- 10% time policy: You are free to work 10% of your time on open source, blog articles and other fancy ideas and stuff. Check out our [engineering blog](http://engineering.blogfoster.com).
-- Working in a startup which supports bloggers turning their passion into a business
-- Building the foundation for a globally scalable product
-- Freedom to bring in your ideas and vision
-- Working with bleeding edge technologies
+Please, click following link to apply:
+https://blogfoster.workable.com/jobs/698084/candidates/new
