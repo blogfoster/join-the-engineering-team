@@ -2,10 +2,9 @@
 title: JavaScript Engineer
 status: open
 position: full-time
-location: Berlin, Germany
 ---
 
-# JavaScript Engineer (m/f)
+# JavaScript Engineer (f/m)
 
 Build the platform that empowers thousands of bloggers and influencers.
 

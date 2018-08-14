@@ -7,9 +7,9 @@ In the meantime, you can check out our [engineering blog](http://engineering.blo
 
 ## Positions:
 
-- [JavaScript Engineer (m/f)](javascript-engineer.md)
-- [Infrastructure Engineer (m/f)](infrastructure-engineer.md)
-- [Product Manager (m/f)](product-manager.md)
+- [JavaScript Engineer (f/m)](javascript-engineer.md)
+- [Infrastructure Engineer (f/m)](infrastructure-engineer.md)
+- [Product Manager (f/m)](product-manager.md)
 
 ## About blogfoster
 
