@@ -10,7 +10,7 @@ Run and scale the platform that empowers thousands of bloggers and influencers.
 
 ## The position
 
-We are looking for a DevOps engineer to strengthen our development team. Your work directly impacts thousands of influencers and hundreds of brands that use our platform.
+We are looking for a infrastructure engineer to strengthen our development team. Your work directly impacts thousands of influencers and hundreds of brands that use our platform.
 
 The foundation for this position is a good understanding of writing code. 
 
