@@ -10,34 +10,30 @@ Run and scale the platform that empowers thousands of bloggers and influencers.
 
 ## The position
 
-We are looking for a infrastructure engineer to strengthen our development team. Your work directly impacts thousands of influencers and hundreds of brands that use our platform.
+We are looking for an infrastructure engineer to strengthen our development team. Your work directly impacts thousands of influencers and hundreds of brands that use our platform.
 
-The foundation for this position is a good understanding of writing code. 
+Having a software engineering background with experience and interest in building infrastructure solutions helps you to accomplish the requirements of the role. IaC and automation make up a significant portion of your daily work.
 
-Your focus will be on our platform’s microservice architecture and infrastructure; building a solid foundation to enable further growth and a stable platform.
-
-You’ll be working in a small team that tries to operate agile and without much overhead.
-
-Your daily routine includes discussions with your peers to help find the best solutions and a default to action.
+Your focus will be on our platform’s microservice architecture and infrastructure; building a solid foundation to enable further growth, and reliable platform.
 
 ## About You
 
-- Do you have experience running scalable infrastructure on AWS?
-- Do you love designing, building and operating modern cloud infrastructure?
+- Do you have experience running infrastructure on AWS?
 - Are you comfortable writing code to automate infrastructure?
-- Do you strive for creative solutions that push the company and your peers instead of accepting the status quo?
 - Experience running Node.js services and Docker in production is a big plus though not a requirement.
-- You're passionate about sharing your knowledge and experience among the team.
+- Do you love designing, building and operating modern cloud infrastructure?
+- Do you strive for creative solutions that push the company and your peers instead of accepting the status quo?
+- You’re passionate about sharing your knowledge and experience among the team.
 
 ## A few of the things you might work on
 
-**Cloud infrastructure**: One integral part of our system are its resources. We host our infrastructure on Amazon Web Services and Compose.io. Help us manage the setup effectively using infrastructure as code.
+**Containerization of the micro-service landscape:** Help us to transition from an instance-driven setup to a container-driven setup on AWS. We already use Docker for development and we see the benefits of a unified approach across all infrastructure layers.
 
-**Platform reliability**: One of the most critical parts of our business is the uptime of our platform. No customer will be happy if it’s either slow or down. You will work on approaches to regularly review our infrastructure and take actions accordingly.
+**Continuous deployment optimization:** We ship software every day, and we want to make sure it happens with high quality. You work with us on improving our development and deployment pipelines for a faster feedback and shipping cycle, and to detect and understand problems early.
 
-**CI / CD system**: The bread and butter of successful product development. We ship software every day, and we want to make sure it happens with high quality. You work with us on improving our development and deployment pipelines for a faster feedback and shipping cycle, and to detect and understand problems early.
+**Health & performance monitoring:** Knowing the internal state of the production services helps to react in error cases. Additionally, it brings valuable insights for further optimizations and improvements. Services and tools, like DataDog, CloudWatch, and so on are out there; let us make use of it.
 
-**Developer tooling**: You can help us built the tools that enable engineers to understand the impact of their changes in production. You'll collaborate with our engineers to help them ship better code.
+**Job scheduler & data pipelines:** Many functionalities of blogfoster’s platform happen behind the scenes. Having a reliable system that can schedule different kind of jobs is an important part. Be part of building a system that is reliable and pleasant to use.
 
 ## About us
 
