@@ -1,6 +1,6 @@
 ---
 title: Product Manager
-status: open
+status: not-open
 position: full-time
 location: Berlin, Germany
 ---
@@ -41,6 +41,3 @@ At blogfoster, we go beyond simply connecting brands with influential individual
 
 Want to join us?
 Then we'd be more than happy to receive your application!
-
-Please, click following link to apply:
-https://blogfoster.workable.com/jobs/698084/candidates/new
