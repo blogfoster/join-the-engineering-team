@@ -6,6 +6,7 @@ location: Berlin, Germany
 ---
 
 # Product Manager (f/m)
+
 As a product manager at blogfoster, you would contribute to a product that enables creative content creators with relevant audiences to turn their passion into a business.
 
 ## The Mission &amp; Product
@@ -20,7 +21,6 @@ At blogfoster, we go beyond simply connecting brands with influential individual
 - We like results-oriented discussions and fast iterations to find the best solutions for our users. We would rather implement a simple prototype and test it with real people than brood over a concept for weeks.
 - You will talk to our customers face-to-face or phone-to-phone at least monthly.
 - Personal development is important to us. That’s why, after a qualifying time period, you are free to spend 10% of your time on your passions. This could be open source, blog articles or other areas of interest that supports you in becoming the best version of yourself.
-
 
 ## Requirements:
 

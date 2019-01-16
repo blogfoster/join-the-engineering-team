@@ -1,6 +1,6 @@
 ---
 title: JavaScript Engineer
-status: open
+status: not-open
 position: full-time
 ---
 
@@ -22,12 +22,12 @@ Your daily routine includes discussions with your peers to help find the best so
 
 ## About you
 
--  Do you have experience and love working with JavaScript? Ideally you've worked with Node.js, and you're interested in working with React, Hapi.js or Express.js.
--  Do you love writing well-tested and robust code, according to modern JavaScript practices and standards?
--  Do you equally care about how building software is done as having it done?
--  Do you strive for innovative solutions that pushes the company and your peers instead of accepting the status quo?
--  You leave no stone left unturned when you are on the hunt for solutions. New problems occur every single day and sometimes we need to leave our comfort zone to tackle them.
--  You're passionate about sharing your knowledge and experience among the team.
+- Do you have experience and love working with JavaScript? Ideally you've worked with Node.js, and you're interested in working with React, Hapi.js or Express.js.
+- Do you love writing well-tested and robust code, according to modern JavaScript practices and standards?
+- Do you equally care about how building software is done as having it done?
+- Do you strive for innovative solutions that pushes the company and your peers instead of accepting the status quo?
+- You leave no stone left unturned when you are on the hunt for solutions. New problems occur every single day and sometimes we need to leave our comfort zone to tackle them.
+- You're passionate about sharing your knowledge and experience among the team.
 
 ## A few of the things you might work on
 
@@ -51,10 +51,10 @@ Your daily routine includes discussions with your peers to help find the best so
 
 ## How to apply?
 
-- Apply here: [https://blogfoster.workable.com](https://blogfoster.workable.com/j/E2FE3E61BC)
+- Position is currently not open.
 - If you have any questions, don't hestitate to contact us at dominic.umbeer@blogfoster.com and let's chat.
 
 ## More information
 
 - Detailed job description on [our website](https://www.blogfoster.com/engineering/jobs/javascript-engineer/)
-- [Our engineering blog](http://engineering.blogfoster.com)
+- [Our engineering blog](https://engineering.blogfoster.com)

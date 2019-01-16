@@ -1,6 +1,6 @@
 ---
 title: Infrastructure Engineer
-status: open
+status: not-open
 position: full-time
 ---
 
@@ -47,10 +47,10 @@ Your focus will be on our platform’s microservice architecture and infrastruct
 
 ## How to apply?
 
-- Apply here: [https://blogfoster.workable.com](https://blogfoster.workable.com/j/31DFF5CFA7)
+- Position is currently not open.
 - If you have any questions, don't hestitate to contact us at dominic.umbeer@blogfoster.com and let's chat.
 
 ## More information
 
 - Detailed job description on [our website](https://www.blogfoster.com/engineering/jobs/infrastructure-engineer/)
-- [Our engineering blog](http://engineering.blogfoster.com)
+- [Our engineering blog](https://engineering.blogfoster.com)
