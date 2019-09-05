@@ -5,7 +5,7 @@ position: full-time
 location: Berlin, Germany
 ---
 
-# Product Manager (f/m)
+# Product Manager (f|m|d)
 
 As a product manager at blogfoster, you would contribute to a product that enables creative content creators with relevant audiences to turn their passion into a business.
 

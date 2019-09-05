@@ -1,5 +1,5 @@
 ---
-title: JavaScript Engineer
+title: Junior JavaScript Engineer
 status: open
 position: full-time
 ---
@@ -24,12 +24,10 @@ Your daily routine includes discussions with your peers to help find the best so
 
 ## About you
 
-- Do you have experience and love working with JavaScript? Ideally you’ve worked with one of the following technologies, like Node.js, React.js, Hapi.js, or Express.js.
-- Do you love writing well-tested and robust code, according to modern JavaScript practices and standards?
-- Do you equally care about how building software is done as having it done?
-- Do you strive for innovative solutions that pushes the company and your peers instead of accepting the status quo?
-- You leave no stone left unturned when you are on the hunt for solutions. New problems occur every single day and sometimes we need to leave our comfort zone to tackle them.
-- You’re passionate about sharing your knowledge and experience among the team.
+- Do you have gained entry-level software development experience with JavaScript, HTML, and CSS?
+- Do you want to develop and extend your skills in working with JavaScript and ecosystem?
+- Are you a curious learner and practitioner who is willing to learn new techniques and technologies?
+- You’re passionate about having technical conversations and sharing your experience among the team.
 
 ## A few of the things you might work on
 
@@ -43,11 +41,15 @@ Your daily routine includes discussions with your peers to help find the best so
 
 ## About us
 
-**Full-stack approach**: The engineering team applies a full-stack approach. We encourage every engineer to work on the full range of tasks (infrastructure, backend, frontend) based on their preferences. The team supports each other to have the knowledge and skills for it.
+**Mentoring:** The team continuously supports you to develop and grow your skills as a professional software engineer.
 
-**Our engineering blog**: We publish articles about our learnings and initiatives. You might find something interesting, and we’d love for you to share your experiences and findings too. [You should check it out](http://engineering.blogfoster.com/).
+**Impact:** Your work has a direct impact on our tens of thousands of influencers and hundreds of brands.
 
-**Remote work**: We are open to people who don’t live in Berlin and don’t want to relocate. The only requirement at the moment is that you live in Europe. This makes the organization and process easier for all of us.
+**Involvement:** Participate in all phases of the development; from requirements to deployment.
+
+**Agile development methodology:** We use Kanban as our preferred way to coordinate our tasks. It gives us the focus and flexibility to handle software projects in the right balance.
+
+**Learning:** We support you with paid learning materials, like online courses, etc. to learn new techniques and technologies.
 
 ## How to apply?
 

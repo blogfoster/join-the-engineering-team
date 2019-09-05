@@ -4,7 +4,7 @@ status: not-open
 position: full-time
 ---
 
-# Infrastructure Engineer (f/m)
+# Infrastructure Engineer (f|m|d)
 
 Run and scale the platform that empowers thousands of bloggers and influencers.
 
