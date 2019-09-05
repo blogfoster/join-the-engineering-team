@@ -4,7 +4,7 @@ status: open
 position: full-time
 ---
 
-# JavaScript Engineer (f|m|d)
+# Junior JavaScript Engineer (f|m|d)
 
 Build the platform that empowers thousands of bloggers and influencers.
 
