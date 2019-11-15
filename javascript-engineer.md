@@ -1,6 +1,6 @@
 ---
 title: JavaScript Engineer
-status: open
+status: not-open
 position: full-time
 ---
 
@@ -51,7 +51,8 @@ Your daily routine includes discussions with your peers to help find the best so
 
 ## How to apply?
 
-Apply here: [https://blogfoster.workable.com](https://blogfoster.workable.com/j/E2FE3E61BC)
+- Position is currently not open.
+- If you have any questions, don't hesitate to contact us at dominic.umbeer@blogfoster.com and let's chat.
 
 ## More information
 
