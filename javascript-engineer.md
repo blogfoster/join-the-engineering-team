@@ -51,10 +51,9 @@ Your daily routine includes discussions with your peers to help find the best so
 
 ## How to apply?
 
-- Position is currently not open.
-- If you have any questions, don't hesitate to contact us at dominic.umbeer@blogfoster.com and let's chat.
+- If you have any questions, don't hesitate to contact us at alexander.beletsky@eqolot.com and let's chat.
 
 ## More information
 
-- Detailed job description on [our website](https://www.blogfoster.com/engineering/jobs/javascript-engineer/)
-- [Our engineering blog](https://engineering.blogfoster.com)
+- About eqolot [technology](https://eqolot.com/eqolot/)
+- [Our engineering blog](https://eqolot.com/technologie/blog)
