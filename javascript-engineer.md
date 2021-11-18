@@ -1,6 +1,6 @@
 ---
 title: JavaScript Engineer
-status: not-open
+status: open
 position: full-time
 ---
 
