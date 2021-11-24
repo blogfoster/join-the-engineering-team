@@ -1,10 +1,10 @@
 ---
-title: JavaScript Engineer
+title: Full-stack JavaScript Engineer
 status: open
 position: full-time
 ---
 
-# JavaScript Engineer (f|m|d)
+# Full-stack JavaScript Engineer (f|m|d)
 
 Build the platform that empowers thousands of creators.
 
