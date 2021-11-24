@@ -54,7 +54,7 @@ Your daily routine includes discussions with your peers to help find the best so
 ## How to apply?
 
 - Position is currently not open.
-- If you have any questions, don't hesitate to contact us at dominic.umbeer@blogfoster.com and let's chat.
+- If you have any questions, don't hesitate to contact us at alexander.beletsky@blogfoster.com and let's chat.
 
 ## More information
 
