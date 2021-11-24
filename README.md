@@ -1,6 +1,6 @@
 # Join blogfoster's Engineering Team
 
-We are always interested in enthusiastic and talented people. You might find here some interesting and exciting positions. If so, don't hestitate to contact us at dominic.umbeer@blogfoster.com and let's chat.
+We are always interested in enthusiastic and talented people. You might find here some interesting and exciting positions. If so, don't hestitate to contact us at alexander.beletsky@eqolot.com and let's chat.
 
 In the meantime, you can check out our [engineering blog](https://engineering.blogfoster.com) to get more information about the engineering team.
 
