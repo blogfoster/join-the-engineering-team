@@ -1,4 +1,4 @@
-# Join blogfoster's Engineering Team
+# Join eqolot's Engineering Team
 
 We are always interested in enthusiastic and talented people. You might find here some interesting and exciting positions. If so, don't hestitate to contact us at alexander.beletsky@eqolot.com and let's chat.
 
