@@ -1,10 +1,10 @@
 ---
-title: Junior JavaScript Engineer
+title: Junior+ Front-end JavaScript Engineer
 status: not-open
 position: full-time
 ---
 
-# Junior+ JavaScript Engineer (f|m|d)
+# Junior+ Front-end JavaScript Engineer (f|m|d)
 
 Build the platform that empowers thousands of bloggers and influencers.
 
