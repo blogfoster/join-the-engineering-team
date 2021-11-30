@@ -1,20 +1,19 @@
 # Join eqolot's Engineering Team
 
-We are always interested in enthusiastic and talented people. You might find here some interesting and exciting positions. If so, don't hestitate to contact us at alexander.beletsky@eqolot.com and let's chat.
+We are always welcoming enthusiastic and talented people. You might find here some interesting and exciting positions. If so, don't hestitate to contact us at alexander.beletsky@eqolot.com and let's chat.
 
-In the meantime, you can check out our [engineering blog](https://engineering.blogfoster.com) to get more information about the engineering team.
+In the meantime, check out our [engineering blog](https://eqolot.com/technologie/blog) to get more information about the team.
 
-## Positions:
+## Positions
 
 - [JavaScript Engineer (f|m|d)](javascript-engineer.md)
 - [Junior JavaScript Engineer (f|m|d)](junior-javascript-engineer.md)
 - [Infrastructure Engineer (f|m|d)](infrastructure-engineer.md)
-- [Product Manager (f|m|d)](product-manager.md)
 
 ## About eqolot
 
-eqolot is a Berlin-based tech company that allows social media influencers to analyze, manage and monetise their market reach. We put bloggers and influencers in touch with businesses to create data-driven content performance marketing campaigns. Thousands of bloggers and over 350 advertisers are already using our market-leading technology.
+eqolot is a Berlin-based tech company that allows social media influencers to analyse, manage and monetise their market reach. We connect creators with businesses to run data-driven content performance marketing campaigns. Thousands of influencers and hundreds of advertisers are using our market-leading technology.
 
-It is crucial for both advertisers and influencers to have access to accurate data, measurements and transparency. That’s why blogfoster has developed its own tracking solution: eqolot Insights. This is a tracking tool that every eqolot blogger must integrate into their website in order to provide valuable data to both themselves and to advertisers for campaign optimisation. Moreover, eqolot handles the entire process from start to finish – from the initial selection of influencers and basic conceptualisation of marketing campaigns right through to invoicing and payment.
+It is crucial for both advertisers and influencers to have accurate data, measurements and transparency. That’s why eqolot collects, aggregates and provides valuable insights for continuous campaign optimisation. Moreover, we handle the entire process from start to finish – from the initial concept and influencer selection to invoicing and payment.
 
-What has started with bloggers is now moving towards all kinds of social media influencers and we plan to combine all as one in a solution that brings advertising value to every social media user in the world.
+What has started with blogs many years ago, has evolved to include all relevant social media platforms, in a solution that brings advertising value to every social media user in the world.
